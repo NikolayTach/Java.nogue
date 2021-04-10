@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[![license](https://img.esa.io/uploads/production/attachments/17596/2021/04/10/101590/bda30512-9740-4ff7-a8b7-9366236b6bb8.svg)](https://www.oracle.com/downloads/licenses/binary-code-license.html)
+[![binary license](https://img.esa.io/uploads/production/attachments/17596/2021/04/10/101590/654fbc34-593b-4224-a054-e50cac1baaea.svg)](https://www.oracle.com/downloads/licenses/binary-code-license.html)
 
 NOGUE PACKS gives the JAVA SERVER USER a better derictory on nogue.jdk data stream. 
 This section describes some of the enhancements in Java SE 16 and JDK 16.
