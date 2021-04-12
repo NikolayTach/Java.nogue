@@ -22,10 +22,7 @@ The descriptions also identify potential compatibility issues that you might enc
 | ON   | 9 packs     | 21.03.2021 |
 | ON   | 1 packs     | 01.02.2021 |
 
-`bobo1 -a "JAVA.NOGUE/bobo1.c"` 
-using container compilatory to compile the inventrory `bobo1.c`.
-
----
+`bobo1 -a "JAVA.NOGUE/bobo1.c"` using container compilatory to compile the inventrory `bobo1.c`.
 Low-level customizing `nogue.json` packs on Zabbix engine.
 Overriding the jdk8 certificate store is possible by overriding the cacert parameter of the package:
 `jdf8.nix`
@@ -39,4 +36,3 @@ Overriding the jdk8 certificate store is possible by overriding the cacert param
                  "{#SERVER_DOMAIN}" :  "JAVA.NOGUE",
                  "{#BETA}" :  "1!"
         },
-  
