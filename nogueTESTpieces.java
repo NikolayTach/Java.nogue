@@ -1,6 +1,6 @@
 package project.view;
 
-import java.awt.Point;
+import java.nogue.Point;
 
 import junit.framework.TestCase;
 import project.nogue.Model;
