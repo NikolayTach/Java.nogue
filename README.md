@@ -28,7 +28,7 @@ Low-level customizing `nogue.json` packs on Zabbix engine.
 Overriding the jdk8 certificate store is possible by overriding the cacert parameter of the package:
 `jdf8.nix`
 [JAVA.NOGUE MAIN PACK RECORDS](https://raw.githubusercontent.com/NikolayTach/JAVA.NOGUE/main/nogue.json)
-[JAVA.NOGUE MANAGE PACK](url)
+[JAVA.IO MANAGE PACK](https://docs.oracle.com/javase/8/docs/api/java/io/package-frame.html)
 
 
 ```{
