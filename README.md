@@ -19,6 +19,9 @@ The descriptions also identify potential compatibility issues that you might enc
 
 | JAVA.NOGUE | jdk.data | DATE|
 | -------- | -------- | -------- |
+| ON    | 20 packs   | 22.04.2021|
+| OFF   | 0 packs    | 20.04.2021|
+| ON   | 5 packs     | 01.04.2021|
 | ON   | 11 packs    | 26.03.2021 |
 | ON   | 9 packs     | 21.03.2021 |
 | ON   | 1 packs     | 01.02.2021 |
