@@ -3,7 +3,8 @@ import function GUInogueTEST.java
 import function nogue.js
 {
    {
-Aimed at frome -- java.nogue[binary.nogue]
+Aimed at forum -- 
+	   java.nogue[binary.nogue]
 }
 @log_nogue
   Do form
