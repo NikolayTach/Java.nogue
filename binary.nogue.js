@@ -9,7 +9,7 @@ Aimed at frome -- java.nogue[binary.nogue]
   Do form
    acts
     one == 11!
-#Link was adddresed to a 10B stke of file packets that what opened on Zabbix server range line.#
+//Link was adddresed to a 10B stke of file packets that what opened on Zabbix server range line.//
 
 {
 A brings '11' and '22' 
