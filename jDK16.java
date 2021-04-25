@@ -1,3 +1,10 @@
+package project;
+
+import java.awt.Component;
+import java.awt.event.MouseEvent;
+import access.log
+import junit.framework.TestCase;
+
 {
 import function arrGuestList(01);extandedArrayFunction to NullFunction
 Path path = FileSystems.getDefault().getPAth("logs", "access.log");
@@ -6,5 +13,5 @@ BufferedReader reader = Files.newBudderedREader(path, StandardCharsets.UTF_8);
 	} 
   Request.UTF()Seen01.arrGuestList(01) 
        Reach.Guest.List(01)
-                   [accsi.log1]
+                   [log0.log1]
 }
