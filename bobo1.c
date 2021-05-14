@@ -10,7 +10,7 @@ do range  int -b
    bobo1 -a "/main/xop-master/bobo1.c"
          while arg 'SF144' sooked del 'SF1123' for 
  bobo1 search -i  asc "java.nogue.io" load int  
-for  range NULL "main/xop-master/bobo1.c" 
+for  range NULL "/main/xop-master/bobo1.c" 
 gpg fingerprint 
 to "JAVA.NOGUE-main/215b38b5-bb59-46e3-b23d-75a29fe0e826_JI2J32J3J4K4HKK3J2U203390J2J09DJ92JJ29121.acs" so queary 
 arg int 
