@@ -26,7 +26,7 @@ The descriptions also identify potential compatibility issues that you might enc
 | ON   | 9 packs     | 21.03.2021 |
 | ON   | 1 packs     | 01.02.2021 |
 
-## :nogue: ( JSR 391) Platform Specification Unit
+## ![1](https://github.com/NikolayTach/JAVA.NOGUE/blob/main/.github/nogue%20emoji.png) ( JSR 391) Platform Specification Unit
 
 
 
