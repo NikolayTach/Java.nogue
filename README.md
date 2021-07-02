@@ -12,7 +12,7 @@ The APIs described here are those that are provided with the Oracle JDK.
 It includes a complete implementation of the Java SE 16 Platform and additional Java APIs to support developing, debugging, and monitoring Java applications.
 Another source of information about important enhancements and new features in Java SE 16 and JDK 16 is the Java SE 16 ( JSR 391) Platform Specification, which documents the changes to the specification made between Java SE 15 and Java SE 16.
 This document includes descriptions of those new features and enhancements that are also changes to the specification.
-The descriptions also identify potential compatibility issues that you might encounter when migrating to JDK 16.
+The descriptions also identify potential compatibility issues that you might encounter when changing to JDK 16.
 
 
 
