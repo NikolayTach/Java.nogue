@@ -39,7 +39,7 @@ The descriptions also identify potential compatibility issues that you might enc
 |Java_SE_15.Open.Jet.Packs	| OutputStream	|  Closeable      |     EOFException      |
 |Java_SE_15.Open.Wig.Packs	| PipedOutputStream  | ObjectStreamConstants	|     CharConversionException |
 
-`bobo1 -a "JAVA.NOGUE/bobo1.c"` using container compilatory to compile the inventrory `bobo1.c`.
+`bobo1 -a "JAVA.NOGUE/bobo1.c"` using container compilatory to compile the inventory `bobo1.c`.
 Low-level customizing `nogue.json` packs on Zabbix engine.
 Overriding the jdk8 certificate store is possible by overriding the cacert parameter of the package:
 `jdk8.nix`
