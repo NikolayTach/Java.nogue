@@ -5,7 +5,7 @@
 [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
 
 
-NOGUE PACKS gives the JAVA SERVER USER a better derictory on nogue.jdk data stream. 
+NOGUE PACKS gives the JAVA SERVER USER a better directory on nogue.jdk data stream. 
 This section describes some of the enhancements in Java SE 16 and JDK 16.
 In some cases, the descriptions provide links to additional detailed information about an issue or a change. 
 The APIs described here are those that are provided with the Oracle JDK.
