@@ -6,7 +6,7 @@
 [![nogue](https://img.esa.io/uploads/production/attachments/17596/2021/05/18/101590/10f9b32d-f1ab-4f3b-a5f1-ecfb4af01c99.png)](https://java-nogue.io)
 [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
 <a href="https://app.bors.tech/repositories/35150"><img src="https://bors.tech/images/badge_small.svg" alt="Bors enabled"></a>
-
+[![javadoc](https://javadoc.io/badge2/org.springframework.boot/nogue/5.1.8.RELEASE/javadoc.svg)](https://javadoc.io/doc/org.springframework.boot/nogue/5.1.8.RELEASE)
 
 
 NOGUE PACKS gives the JAVA SERVER USER a better directory on nogue.jdk data stream. 
