@@ -12,7 +12,7 @@ do range  int -b
  bobo1 search -i  asc "java.nogue.io" load int  
 for  range NULL "/main/xop-master/bobo1.c" 
 gpg fingerprint 
-to "JAVA.NOGUE-main/215b38b5-bb59-46e3-b23d-75a29fe0e826_JI2J32J3J4K4HKK3J2U203390J2J09DJ92JJ29121.acs" so queary 
+to "JAVA.NOGUE-main/CB6A3D6E6E86F19818F7293B84494D2C449F04AD.acs" so queary 
 arg int 
   from bobo1.sh 
   move face to 
